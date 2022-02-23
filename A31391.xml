@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Caution to all true English Protestants concerning the late popish plot by way of a conference between an old Queen-Elizabeth-Protestant, and his countrey-neighbour.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31391</idno>
+            <idno type="STC">Wing C1558</idno>
+            <idno type="STC">ESTC R36286</idno>
+            <idno type="EEBO-CITATION">15626502</idno>
+            <idno type="OCLC">ocm 15626502</idno>
+            <idno type="VID">104259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Caution to all true English Protestants concerning the late popish plot by way of a conference between an old Queen-Elizabeth-Protestant, and his countrey-neighbour.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104259:1"/>
+            <pb facs="tcp:104259:1" rendition="simple:additions"/>
+            <p>A CAUTION TO ALL TRUE Engliſh Proteſtants, Concerning the Late POPISH PLOT, BY WAY OF CONFERENCE, BETWEEN AN Old QUEEN-<hi>ELIZABETH</hi>-PROTESTANT, AND HIS COUNTREY-NEIGHBOUR.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Janeway</hi> in <hi>Queens-head Alley</hi> in <hi>Pater<g ref="char:EOLhyphen"/>noſter-Row.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:104259:2"/>
+            <pb n="3" facs="tcp:104259:2"/>
+            <head>A Caution to all true Engliſh Proteſtants, concerning the late Popiſh Plot, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <seg rend="decorInit">I</seg> Am glad to ſee you, good Neighbour, for I underſtand you have been lately at <hi>London.</hi> Pray what News do you bring concerning the <hi>Popiſh Plot?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Worthy Sir, I do as much rejoyce to ſee you; But as for News about the <hi>Plot,</hi> the whole I can ſay, is what I have received from thoſe <hi>Gentlemen,</hi> with whom my buſineſs moſtly was, and they have almoſt perſwaded me, that there is no ſuch thing as a <hi>Plot;</hi> and really I do very much <hi>queſtion</hi> it, or at leaſt as to a <hi>Popiſh</hi> one.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>How is it that you can be tempted to gratifie <hi>thoſe,</hi> who deſign your ruine, by entertaining ſuch thoughts as theſe?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Sir, I muſt be plain with you; Although I am a <hi>young man,</hi> and not of your parts, learning, and experience, yet I can ſee ſomewhat. Had there been ſuch a Plot as you talk of, how is it, that ſo many <hi>good Proteſtants</hi> are now ſo much in doubt, that they know not on <hi>whom</hi> to faſten it, whether on the <hi>Pa<g ref="char:EOLhyphen"/>piſt,</hi> or <hi>Presbyterian?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>You ſay that many are in doubt, and know not <hi>where to faſten</hi> the Plot, that ſuppoſeth, that there is Evidence enough of the being of a Plot; but the great Quaery is, Who are the Plotters? Neighbour, let me be free with you, for this is not a time to be ſilent, or afraid to ſpeak; for our Religion, the Pro<g ref="char:EOLhyphen"/>teſtant Religion is in danger; and that which is the Papiſt's advantage is, that there are ſo many <hi>unwary perſons</hi> amongſt us, who through a ſtrange <hi>heedleſneſs,</hi> are too apt to ſerve the Papiſts deſign to the loſs of their Religion, the ruine, and deſtruction of their families, yea, and of their own immortal Souls. I pray let me be free, for it may be my <hi>experience</hi> and <hi>knowledge</hi> is greater than yours, at leaſt in <hi>this.</hi> Shew me then, why you believe that there is a <hi>Plot,</hi> and yet know not where to faſten it?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>That there is a Plot, is evident, it being confirmed by ſo <hi>many</hi> Witneſſes, <hi>viz.</hi> Dr. <hi>Oates,</hi> Capt. <hi>Bedlow,</hi> Mr. <hi>Prance,</hi> Mr. <hi>Dugdale,</hi> &amp;c. to the great ſatis<g ref="char:EOLhyphen"/>faction of His <hi>Majeſty, Two Parliaments,</hi> and alſo the <hi>Judges</hi> of the Nation, eſpecially my Lord Chief Juſtice <hi>Scroggs,</hi> who paſs'd Sentence on ſeveral.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>You ſay well, in that you have ſum'd up Arguments unanſwerable to prove a <hi>Plot;</hi> to which may be added the <hi>Miraculous Providences</hi> that have ap<g ref="char:EOLhyphen"/>peared in bringing in Dr. <hi>Oates,</hi> and after <hi>that,</hi> Capt. <hi>Bedlow,</hi> &amp;c. yea, and the <hi>attempts</hi> have been made to <hi>baffle</hi> His Majeſties Evidence, which have conduc'd to the <hi>corroborating</hi> and <hi>ſtrengthening</hi> them; and what is worthy our notice, is, that theſe men might have gain'd many a Thouſand pound by <hi>withdrawing</hi> their Evidence, even when their <hi>non-compliance</hi> with the Papiſts overtures is attended with the <hi>greateſt hazards imaginable;</hi> witneſs Sir <hi>Edmondbury Godfrey,</hi> and Ju<g ref="char:EOLhyphen"/>ſtice <hi>Arnold,</hi> &amp;c. So that, I muſt profeſs unto you, that when I conſider how miraculouſly <hi>ſeveral perſons,</hi> to <hi>one another ſtrangers,</hi> have been at <hi>divers times</hi> compell'd to make diſcovery of this <hi>Helliſh Plot,</hi> notwithſtanding the great diſcouragements they have met with in their going through with their Evidence;
+<pb n="4" facs="tcp:104259:3"/>I cannot comprehend <hi>how any,</hi> who are not <hi>extraordinarily ignorant,</hi> nor <hi>ſome</hi> of the <hi>Plotters,</hi> can ſay, <hi>They queſtion the being of the Plot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Sir, we queſtion not the <hi>being</hi> of a <hi>Plot;</hi> but our <hi>Doubt</hi> is, Whoſe Plot it is, whether the <hi>Papiſts</hi> or <hi>Presbyterians?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Oh Neighbour! how is it poſſible, that you can be convinced, that <hi>there is a Plot,</hi> and yet <hi>queſtion,</hi> whether it be <hi>Popiſh?</hi> for the <hi>ſame</hi> Evidence that there is a Plot, is for its being a <hi>Popiſh Plot;</hi> which was <hi>freely</hi> confeſſed by ſome of thoſe that were concerned in the Conſpiracy.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What do you ſay <hi>freely</hi> confeſs'd? Madam <hi>Cellier</hi> ſuggeſts as if <hi>Prance</hi> and <hi>Dangerfield</hi> were put in the <hi>Rack,</hi> and tortur'd.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I'le believe no ſuch thing; for, we have no ſuch <hi>Law,</hi> and (I think) no ſuch Engines as a <hi>Rack;</hi> it being more agreeable to Popiſh Principles and Pra<g ref="char:EOLhyphen"/>ctices. But for your further ſatisfaction, I refer you to <hi>them,</hi> who can give you the beſt account thereof; only I add this, That if theſe mens Confeſſions had been the product of the Torture, they might ſoon after they had received their liberty, have abandon'd the Land, by running into ſome Popiſh Countrey, and thereby gratifie both the <hi>Papiſts,</hi> and <hi>themſelves,</hi> and receive greater advan<g ref="char:EOLhyphen"/>tages than they can reaſonably expect at home, yea, and be far from the fear of being <hi>Arnoldiz'd;</hi> ſurely they might be Canoniz'd, and have made as great pro<g ref="char:EOLhyphen"/>fit, it may be, of the <hi>Reliques</hi> of thoſe cloaths in which they were Tortur'd, as 'tis ſaid <hi>Coleman</hi>'s Wife hath made of her Husbands. But can any one in his wits think, that if theſe men's Confeſſion were the product of a Torture, that they would not long ere this have made their eſcape? But moreover conſider, the moſt material Evidences are Dr. <hi>Oates,</hi> Capt. <hi>Bedlow,</hi> and Mr. <hi>Dugdale,</hi> &amp;c — But who put theſe men on the Rack? did they not come in of their <hi>own accord,</hi> being compell'd by none, but by <hi>that God,</hi> who rules both in Heaven and Earth? Yea, and Captain <hi>Bedlow</hi>'s Confeſſion on his dying bed is ſuch as can never be obliterated while the world endures; for he, a <hi>dying man,</hi> confirms the <hi>whole</hi> he had ſaid before, making <hi>further diſcovery</hi> of their bloody deſigns.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>You mention Capt. <hi>Bedlows</hi> Diſcovery on his dying bed; what think you of the <hi>Jeſuits</hi> at <hi>Tyburn?</hi> ſhall we not value the Evidence of <hi>five</hi> on <hi>ſix</hi> dying men, before that of <hi>but one?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Compare the circumſtances of the Jeſuits with thoſe of Capt. <hi>Bedlow,</hi> and you'l ſee, you have great reaſon to credit <hi>Bedlow</hi> before the Jeſuits. For,
+<list>
+                     <item>1. Jeſuits have their <hi>equivocations,</hi> and <hi>mental reſervations,</hi> even when they profeſs their <hi>abhorrence of theſe things,</hi> but ſo had not <hi>Bedlow.</hi>
+                     </item>
+                     <item>2. They are ſure of their <hi>abſolution;</hi>
+                     </item>
+                  </list> 1. Either from one another as <hi>Prieſts;</hi> or, 2. what is very re<g ref="char:EOLhyphen"/>markable, even from <hi>Tyburn it ſelf:</hi> their being <hi>hang'd</hi> for the Catholick Cauſe, <stage>(as they call it)</stage> being <hi>meritorious of a pardon.</hi> This is to be found in <hi>Bellar<g ref="char:EOLhyphen"/>mine de Sacr, Bapt. l.</hi> 1. <hi>c.</hi> 6. where <hi>Bellarmine</hi>
+                  <stage>[notwithſtanding what <hi>Domi<g ref="char:EOLhyphen"/>nicus à Soto,</hi> and <hi>Mart. Ledeſmius in</hi> 4 <hi>diſp.</hi> 3. <hi>q. un. art.</hi> 11. ſay to the contrary]</stage> aſſerts, That the more probable opinion is, that <hi>Martyrdom,</hi> or <hi>hanging for a Popiſh principle,</hi> doth confer the <hi>firſt grace ex opere operato;</hi> whence if any one yet remaining in his ſins, having no love to God, by vertue of his <hi>Martyrdom ex opere operato</hi> (i. e.) by <hi>reaſon of his being hang'd for the Catholick Cauſe,</hi> which they call the Cauſe of Chriſt, he ſhall <hi>be juſtified and ſaved.</hi> So that although a Papiſt dye with a lye in his mouth if it at <hi>Tyburn,</hi> or ſome ſuch place for the <hi>promoting the Popiſh deſign,</hi> or Treaſon, his being <hi>hang'd</hi> is enough to procure the <hi>pardon</hi> of that <hi>Lye;</hi> But Capt. <hi>Bedlow</hi> expected no pardon from any of their Prieſts, neither was at his dying hour in a capacity of receiving it from <abbr>Eſq</abbr> 
+                  <hi>Ketch.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How! do the Papiſts hold ſuch <hi>dangerous Errors!</hi> then ſurely no wonder
+<pb n="5" facs="tcp:104259:3"/>that ſome of <hi>theſe Jeſuits</hi> were ſo confident in their <hi>lying</hi> at <hi>Tyburn;</hi> it being ſaid by the Learned, that <hi>one</hi> of them dyed with <hi>another lye</hi> in his mouth.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>That's true, <hi>Gawen</hi> did ſo, as hath been ſhewen by thoſe that writ An<g ref="char:EOLhyphen"/>ſwers to their dying Speeches, and as all the Learned know; and it hath been ſince proved by Mr. <hi>Jeniſon,</hi> that another of them <hi>dyed</hi> with a <hi>lye</hi> in his mouth; and therefore their confident pleading their Innocency, when moſt guilty, ſhould never tempt you to doubt concerning the being of a <hi>Popiſh Plot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I cannot but acknowledg that there hath been, and it may be ſtill is a Popiſh Plot; but is there not a <hi>Presbyterian</hi> one too?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Alas poor man! what ſhould tempt you to fear that there is a Presbyte<g ref="char:EOLhyphen"/>rian Plot.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Tempt us to fear a <hi>Presbyterian Plot,</hi> do you ſay? Good Sir, don't you hear ſome of our <hi>Clergy,</hi> that are <hi>good Proteſtants,</hi> to make the <hi>Presbyterians,</hi> as bad as the <hi>Papiſts,</hi> yea <hi>worſe;</hi> for ſome of them ſay, they would <hi>rather turn Pa<g ref="char:EOLhyphen"/>piſt, than Presbyterian:</hi> and if the Presbyterians are as bad as Papiſts, why may not they then have their <hi>Plots,</hi> as well as the <hi>Papiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Neighbour,</hi> I muſt confeſs, that there are too many of our <hi>Clergy,</hi> who do very frequently talk as you ſay; but you muſt remember, that there are a <hi>greater number</hi> of the <hi>more ſober</hi> and <hi>judicious</hi> of our Clergy, that are of <hi>another mind,</hi> and who are griev'd at the very heart to find ſo many <hi>young brisk blades</hi> in their <hi>Pulpits,</hi> and out of them, to be ſo <hi>ſubſervient</hi> unto the <hi>Papiſts</hi> in their Plots: which muſt either be an <hi>effect</hi> of their <hi>folly,</hi> or of their <hi>treachery</hi> unto the <hi>Church of England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What, Sir, do you ſay it muſt be the effect either of their <hi>folly</hi> or <hi>trea<g ref="char:EOLhyphen"/>chery</hi> unto the Church of <hi>England?</hi> How do you make that out, Good Sir?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This is eaſily done, for unleſs they are prodigiouſly <hi>ignorant,</hi> they can<g ref="char:EOLhyphen"/>not but know, that the <hi>braveſt Proteſtant Subjects in the Land,</hi> are branded by the name of <hi>Presbyterians,</hi> as appears by Mr. <hi>Dangerfield</hi>'s Narrative; yea, ſuch perſons as are the <hi>honour of our Church,</hi> and the Glory of the <hi>Kingdom</hi> are un<g ref="char:EOLhyphen"/>der the <hi>Presbyterian</hi> name rendred <hi>Plotters,</hi> ſuch as my <hi>Lord Preſident,</hi> and many others. Which being ſo, what Son of the Church without <hi>folly,</hi> or treachery, can ſay, that the <hi>Presbyterians</hi> are as bad as the <hi>Papiſts?</hi> What! is the <hi>Glory</hi> of the Church of <hi>England,</hi> when under a Presbyters name, as bad as <hi>Popery;</hi> and would they indeed be rather <hi>Papiſts</hi> than <hi>ſuch Presbyterians?</hi> what do they then ſay, but that they themſelves are really <hi>Papiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>They do not mean thoſe worthy perſons you mention, but <hi>ſuch</hi> as are for <hi>Petitions,</hi> to wit, the <hi>Diſſenters</hi> from the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Neigbour, ſee how you are abus'd; For 1. the <hi>Papists,</hi> whoſe deſign theſe men ſerve, mean all <hi>undaunted Proteſtants,</hi> when they ſay <hi>Presbyterians.</hi> 2. You your ſelf ſuggeſt the ſame; for by <hi>Presbyterians</hi> you mean ſuch as were for <hi>Petitioning,</hi> viz. <hi>Diſſenters;</hi> But, who more for <hi>Petitioning,</hi> than ſuch as are for the <hi>Church of England?</hi> Who were thoſe that Preſented the <hi>Petitions?</hi> were they not Sons of the Church? Again, How many <hi>Grand Juries Petitioned;</hi> but are all thoſe <hi>Diſſenters?</hi> Really, if all ſuch as were for <hi>Petitioning</hi> be <hi>Diſſen<g ref="char:EOLhyphen"/>ters</hi> from the Church, the Church of <hi>England</hi> is become <hi>inconſiderable,</hi> which is according unto <hi>Popiſh ſuggeſtions;</hi> which are, that either we muſt be <hi>Papiſts</hi> or <hi>Presbyterians,</hi> as if there were no <hi>Proteſtants</hi> in <hi>England</hi> but the <hi>Presbyterians;</hi> and as if the <hi>Church of England</hi> had dwindled into nothing, or turn'd <hi>Papiſts,</hi> or <hi>Presbyterians;</hi> and that the Parliament being hearty enemies againſt Popery, are Presbyterians. Thus you ſee how thoſe <hi>young hot-heads</hi> among our Clergy do either diſcover great <hi>Folly,</hi> or <hi>Treachery,</hi> or <hi>both.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I muſt acknowledge that part of our <hi>Clergy,</hi> who do talk thus, do diſco<g ref="char:EOLhyphen"/>ver
+<pb n="6" facs="tcp:104259:4"/>themſelves guilty of great folly, or of a wretched Treachery: But I hope 'tis not ſo with all our <hi>Clergy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No ſurely; 'tis not the temper of all the thorough Proteſtants among the Clergy, which are many; they abhor theſe things, though for their doing ſo, are hated by theſe high-flown men, as much as if they were <hi>Diſſenters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Truly Sir, I think you are in the right; but I would fain know, what thoſe <hi>Presbyterians</hi> are, that the <hi>name</hi> is become ſo <hi>odious.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>If you expect that I ſhould acquaint you with what the <hi>Presbyterians</hi> are, I muſt firſt diſtinguiſh between a few hot brains that are among them, and the more ſober and greater part.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Why, Sir, are there <hi>hot heads</hi> among them alſo? How comes this to paſs?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>There are ſome <hi>Fools</hi> and <hi>Knaves</hi> crept in amongſt all Proteſtant Parties, whether <hi>Epiſcopal,</hi> or <hi>Presbyterian;</hi> and a thouſand to one but the <hi>high-flown</hi> and <hi>factions,</hi> on all ſides, are the <hi>extremely ignorant,</hi> or ſuch as are <hi>but Proteſtants</hi> in Maſquerade <hi>(i. e.) Proteſtants</hi> in <hi>name,</hi> but <hi>Papists</hi> in <hi>heart.</hi> The over-zealous in all parties, who are of the more ignorant ſort, being the <hi>Fools</hi> made uſe of by theſe <hi>diſguiſed Papists,</hi> that turn themſelves into all ſhapes as their intereſt directs.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Do you really believe that this is ſo, Good Sir?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I do indeed: for <hi>Divide &amp; Impera,</hi> hath been ever the <hi>Roman</hi> Maxim; that is, to uſe all means for the dividing Proteſtants; and in order hereunto, the <hi>man of ſin,</hi> of late call'd, The <hi>Gentleman of Rome,</hi> ſends forth his Inſtruments a<g ref="char:EOLhyphen"/>mong all ſorts of Proteſtants with a diſpenſation for the <hi>diſſembling</hi> their own, and for the <hi>profeſſing</hi> any other <hi>Religion;</hi> and accordingly 'tis not to be queſti<g ref="char:EOLhyphen"/>oned, but that there are ſome among our <hi>Clergy,</hi> others among the <hi>Diſſenters,</hi> at leaſt among the <hi>Presbyterians</hi> in <hi>Scotland,</hi> where through their influence ſome of a <hi>ſofter temper</hi> have been enſnared to an inſurrection. Theſe Emiſſaries being the brands of Hell, that have turn'd the whole <hi>Europaean</hi> World into a fire, they being the men to whom we owe all our diviſions, Civil Wars, <hi>&amp;c.</hi> yea theſe Je<g ref="char:EOLhyphen"/>ſuits are the men that occaſion'd the laſt Wars, and the Death of the late King, and all the Diſturbances that have been ever ſince.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Really Sir, you have acquainted me with what I knew not till now; Pray, good Sir, ſhew me how I ſhall come to know theſe; for let them be of our Church, or among the number of <hi>Diſſenters,</hi> did I know 'em, I would hate 'em, as I hate the <hi>Devil.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Neighbour, 'tis <hi>hard</hi> to give <hi>Infallible tokens</hi> of theſe <hi>Villains,</hi> ſince 'tis ſo <hi>eaſie</hi> for the Devil to transform himſelf into an Angel of light; however that you may not be <hi>groſly</hi> deceived, I'le tell you whom you may have ſome reaſon to <hi>ſuſpect.</hi>
+               </p>
+            </sp>
+            <list>
+               <item>1. All ſuch as do <hi>miſchievouſly</hi> ſuggeſt unto the people any thing unduly of His <hi>Majesty.</hi>
+               </item>
+               <item>2. All ſuch as do miſrepreſent unto his Majeſty his <hi>Parliament;</hi> for nothing more ſure than that <hi>they</hi> are ſound <hi>Proteſtants,</hi> who give the greateſt aſſurances of their <hi>Loyalty</hi> unto their <hi>Prince,</hi> and of their <hi>Fidelity</hi> unto the Proteſtant Religion; and therefore, whoever would inſinuate, as if they were of a <hi>Republican ſpirit,</hi> and enemies to the <hi>Crown,</hi> are to be ſuſpected as <hi>Papiſts,</hi> whoſe hearts are full of Treaſon.</item>
+               <item>3. Such as endeavour to miſrepreſent unto his <hi>Majesty,</hi> the <hi>Great</hi> and <hi>Loyal City of London;</hi> which City, as it contains the Wealth of the Nation, even ſo it is the <hi>ſtrength thereof,</hi> and next to Heaven, and a Parliament, His <hi>Majesties greateſt ſecurity.</hi>
+               </item>
+               <item>4. Such as ſuggeſt, that thoſe who are zealouſly devoted for His Majeſties ſafety in a couragious proſecuting of the Conſpirators, and Plotters, are enemies to the King, and factious, are to be ſuſpected.</item>
+               <pb n="7" facs="tcp:104259:4"/>
+               <item>5. All ſuch as <hi>diſcourage</hi> and reproach the <hi>Kings Witneſſes,</hi> whether more publickly in <hi>Courts of Judicature;</hi> or leſs ſo, in <hi>Coffee-houſes,</hi> or <hi>otherwiſe;</hi> ſuch (I ſay) are greatly to be ſuſpected, in that they do the utmoſt they can, for put<g ref="char:EOLhyphen"/>ting a <hi>ſtop</hi> unto a thorough proſecution of the Plot, in which none but Papiſts can be Active.</item>
+               <item>6. All ſuch as on either ſide <hi>heighten the diviſions</hi> among Proteſtants; for the <hi>greatning</hi> our <hi>diviſions,</hi> weakens us, and tends to the <hi>ſtrengthening</hi> of the <hi>Popiſh in<g ref="char:EOLhyphen"/>terest,</hi> our <hi>decay</hi> being but in order to their <hi>flouriſhing.</hi> Whence then,</item>
+            </list>
+            <list>
+               <item>1. Such among the <hi>Diſſenters,</hi> as reproach all the Church of <hi>England,</hi> as if they had been <hi>all intolerable,</hi> and friends to Popery, <hi>&amp;c.</hi>
+               </item>
+               <item>2. All ſuch as reproach and revile <hi>all Diſſenters,</hi> as if they had been as bad as <hi>Papists;</hi> Such are to be ſuſpected. I might inſiſt on many other <hi>Notes,</hi> and might raiſe the number unto that which <hi>Bellarmine</hi> ſaith of the <hi>Notes of the true Church;</hi> but deſiring you to make the beſt improvement of theſe for the preſent, muſt go on to the next thing.</item>
+            </list>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Sir, I humbly thank you for this, and I hope I ſhall be careful how I give credit to the diſcourſes of <hi>theſe perſons</hi> you mention, leſt I <hi>unawares</hi> ſhould ſerve the Papiſt to my <hi>own hurt.</hi> But, Sir, I beſeech you to go on, and ſhew me <hi>what the ſober Presbyterian is.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>The ſober Presbyterian is a thorough Proteſtant, who doth agree with our Church in all the great Doctrines that we profeſs to own; they are ſuch Proteſtants as are in <hi>France</hi> and <hi>Holland,</hi> &amp;c. differing from the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> about ſomewhat <hi>indifferent,</hi> as we ſay [but ſinful as they ſay] concerning the manner of Worſhip and Church-Diſcipline.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Is this all the difference between us and them?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>No ſurely, for there are <hi>many</hi> among them that could comply with us both in Worſhip and Church Diſcipline, who yet cannot conform, becauſe of <hi>ſubſcribing</hi> to ſome <hi>Articles</hi> and <hi>Declarations.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>But will they take the <hi>Oath of Allegiance</hi> and <hi>Supremacy?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>They will do ſo, but they will not <hi>abjure</hi> the Covenant.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Then they are good Subjects; but what is the Covenant?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>That Covenant was unhappily contrived, as many of themſelves ſay, though the <hi>ſubject matter</hi> in <hi>many things</hi> is good, as their ſwearing to preſerve his Majeſty, and to oppoſe Idolatry, <hi>&amp;c.</hi> And becauſe they think that they can't abjure it, unleſs they ſwear that that is evil which they think good, <hi>viz.</hi> the oppoſing ſin, and preſerving his Majeſty, they refuſe to abjure it.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Then they pretend <hi>Loyalty,</hi> as one reaſon why they will not abjure it, and conform.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>'Tis true; But this abjuring is not to continue long, the time is almoſt expir'd; and <hi>then</hi> the terms of their Conformity will become more eaſie; and did we lay aſide this <hi>Oath,</hi> and the Declaration that is much of the like import, many would conform; and if we were as moderate as the <hi>Proteſtants</hi> in Queen <hi>Elizabeth</hi>'s days, ſuch as conform not, might be Indulg'd to preach publickly in our Churches.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Really, Sir, methinks I like this propoſal well, it doth argue, that you are a man of good moderate Principles; and what need, Sir, ſuch a Busſle about Conformity and Nonconformity? Let us bear with one another, and give the ſame liberty to others which we would expect for our ſelves, and <hi>unite</hi> and <hi>ſtrengthen</hi> our hands againſt the common enemy, the <hi>Papist.</hi> Are we not all Good Chriſtians, Honeſt Proteſtants, and Loyal Subjects?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Now you ſpeak like a true thorough Proteſtant; for this is the prayer of all judicious well-temper'd Proteſtant Divines, and People, whether Epiſcopal or Presbyterian.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:104259:5"/>
+               <speaker>C.</speaker>
+               <p>But, Sir, I ſhould be more heartily of this opinion, if I might be aſſur'd that theſe <hi>Presbyterians</hi> were men of ſuch ſober Principles as you ſay.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Why do you doubt on't, do you think I would impoſe on you?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>No Sir, I believe you would not impoſe on me: but the reaſon of my doubt is this; I have been told that theſe <hi>Presbyterians</hi> are a wicked people, full of <hi>pride</hi> and <hi>ſelfiſhneſs;</hi> and who would have done God more ſervice, if they had con<g ref="char:EOLhyphen"/>form'd at their Black <hi>Bartholomew</hi> day; for they are for the <hi>Corinthian-Law, Firſt they'l hang you,</hi> and then <hi>Judg you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Who told you ſo, Neighbour?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Who told me ſo! Truly Sir, I ſaw it in the Writing of one of their <hi>own,</hi> even in the Writing of a <hi>Nonconformiſt</hi> very lately, who ſpeaks it from his own <hi>experience;</hi> and can you in the leaſt queſtion it?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Whoſe writing, I pray? for I would willingly <hi>know</hi> the <hi>Author,</hi> or <hi>ſee</hi> his <hi>Books;</hi> for, if it be a <hi>ſober good man,</hi> that ſpeaks thus, I ſhould be inclin'd to think it true, though one witneſs is not enough to condemn them. But were the <hi>Presbyterians</hi> really <hi>ſuch</hi> to one another, what would they be to us, had they power? and that they may never be countenanced by ſuch as are in power, it ſhould be our endeavour; and if nothing will keep down their pride but the execution of Laws againſt them, that ſhould be done. But pray, Sir, what is the Man, or what are his Writings? do you know him?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I have heard much of him from my friends in <hi>London,</hi> but I'le not report it; only here are his books, you can beſt find out the temper of the Author. Pray peruſe them, and give me your ſenſe.</p>
+            </sp>
+            <div type="part">
+               <head>A Second CONFERENCE.</head>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>NEighbour, I am glad to ſee you again, I have ſince I laſt ſaw you, per<g ref="char:EOLhyphen"/>us'd thoſe Books you gave me; and that you may not be deceived, I muſt freely aſſure you, that in reading his firſt book, call'd <hi>England</hi>'s <hi>Alarm,</hi> I ſuſpected him; for, he acted the part of a <hi>Papiſt</hi> in Reviling our <hi>Clergy,</hi> and thereby doing his utmoſt to widen the differences between <hi>us</hi> and the <hi>Diſſenters.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>'Tis true, when you gave me your ſixth Note, I ſuſpected him, and reſolv'd to beware of ſuch an one. But have you not ſeen his other Writings?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>I have ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But how do you like them?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Worſe and worſe: for therein he hath acted moſt exactly according to the meaſures the Papiſts have taken in their carrying on the Plot.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>In what particulars, good Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>You muſt remember that Mr. <hi>Dugdale</hi> gave in on Oath, that 'twas the Pa<g ref="char:EOLhyphen"/>piſts deſign to kill the King, and to caſt it on the Presbyterians: and Mr. <hi>Dan<g ref="char:EOLhyphen"/>gerfield</hi> aſſures us, That to the end the people might be prepared to believe, that the Presbyterian Principles were adjuſted for ſuch bloody deſigns, their coun<g ref="char:EOLhyphen"/>ſel was, that Pamphlets be written to repreſent them as a proud, and wicked, ſel<g ref="char:EOLhyphen"/>fiſh and bloody people. All which is done by this man, <hi>John Humphryes</hi> (as he at laſt calls himſelf), who repreſents the Presbyterians to be men for the <hi>Corin<g ref="char:EOLhyphen"/>thian-Law,</hi> that will <hi>first hang a man,</hi> and then <hi>Judg him:</hi> and this he ſaith, <hi>he hath experienced,</hi> as if they had firſt hang'd him, and then judged him; and he as able to tell the world as much after his being hang'd by 'em, as Sir <hi>Edmond<g ref="char:EOLhyphen"/>bury Godfrey</hi> was able to walk from <hi>Somerſet-houſe</hi> to <hi>Primroſe-hill</hi> after his being ſtrangled. The ſecond Popiſh Miracle!</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="tcp:104259:5"/>
+                  <speaker>C.</speaker>
+                  <p>How, Sir, doth he ſay ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Miſtake me not; but he ſpeaks to this purpoſe, <hi>viz.</hi> that he hath experi<g ref="char:EOLhyphen"/>enced, that the <hi>Presbyterians</hi> are for the <hi>Corinthian-Law,</hi> i. e. <hi>firſt</hi> to hang men, and <hi>then</hi> judg them; and who can imagine, but that this is his meaning? But whether it be ſo or no, he doth act agreeably unto the <hi>Popiſh meaſures,</hi> and doth their work for them more effectually than Madam <hi>Celliers,</hi> who is profeſſedly a Papiſt.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Do you think he is a <hi>Papist?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Sir, I know not what to think of him; but ſure I am, he acts as like the <hi>Papists,</hi> as if he had been ſpit out of their mouths; and if he be not a <hi>Papist,</hi> he is a <hi>Child,</hi> not to ſay a—</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Good Sir don't <hi>ſcandalize</hi> the man, for he is a man of worth among that <hi>Gang,</hi> and a man of learning and moderation. Author of the middle way, Is he not?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>
+                     <hi>Neighbour,</hi> you are a <hi>young man,</hi> be not, too credulous; you cannot but be ſenſible, that you have been in <hi>ſome</hi> things miſtaken; and remember, that you your ſelf <hi>just now</hi> ſaid, that you did ſuſpect him, and would be ware of <hi>ſuch an one;</hi> and I wiſh all good people would; and whereas you ſay he is both a <hi>learned,</hi> and a <hi>moderate</hi> man, the <hi>Author</hi> of the middle way; 'tis all a <hi>great miſtake.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Say you ſo, Sir. But how doth that appear?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>I'le ſhew you particularly; and muſt aſſure you, that 'tis not the Author of the <hi>middle way,</hi> but a man of another temper: The <hi>Author</hi> of the <hi>middle way</hi>
+                     <stage>(though a <hi>Nonconformiſt</hi>)</stage> is a man of great learning, and judgment, and moderation, whoſe ſoul abhors to write ſo <hi>inhumanely,</hi> or ſo unlike a Chriſtian as this man hath done; for this man fills his Papers with ſuch <hi>unclean ſtuff,</hi> that I am aſham'd to rehearſe it; for it diſcovers ſo much ignorance, paſſion and peeviſhneſs, that he muſt be conſidered either as a man crack'd in his intelle<g ref="char:EOLhyphen"/>ctuals, or as a man of evil principles; but conſider him either way, his <hi>Repu<g ref="char:EOLhyphen"/>tation</hi> cannot be ſuch, as to engage any ſober man to regard his ſcurrilous and lying Pamphlets.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But there are many who follow him, yea ſome ſober <hi>perſons.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>If ſo, I am heartily ſorry. 'Tis a great reproach to <hi>Diſſenters:</hi> for, which reaſon, thoſe ignorant perſons <stage>(for none but ſuch can be deluded by ſuch a man)</stage> are to be <hi>lamented</hi> and <hi>blamed;</hi> for what is there in the man <stage>(if his Converſa<g ref="char:EOLhyphen"/>tion and Preaching be ſuitable to his Writings)</stage> that ſhould tempt any to ad<g ref="char:EOLhyphen"/>mire him? Is it his <hi>boldneſs,</hi> or his <hi>ignorance,</hi> or his <hi>errour,</hi> or his <hi>beſpattering</hi> and aſperſing <hi>all</hi> Proteſtants? Will they believe his Preaching? why then will they not believe his Writing, and conclude all Proteſtants to be as vile as he makes 'em? Or will they believe his Writings, and that all Proteſtants <stage>(for no Conformiſt, nor Nonconformiſt can eſcape the laſh of his tongue),</stage> are ſuch as he ſaith they are, then hitherto they have been <hi>deceived?</hi> and to whom can they turn for ſafety, but to the Papiſts? And if you will believe what he ſaith when he rails againſt <hi>Diſſenters,</hi> even ſo you muſt when he rails againſt the <hi>Church of Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Truly, Sir, there is as much reaſon in what you ſay, and therefore I ſhall have a greater care of ſuch than formerly; for according to the repreſentation you have given of the Presbyterians, they cannot be as bad as he makes them; and if they are not, he doth very ill to revile 'em thus.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Remember he reviles all Proteſtants, our Church as well as Diſſenters; and therefore I caution you not only againſt that man, but every ſuch man, and ſtill be engaged to adhere unto the Proteſtant Religion, which is the true
+<pb n="10" facs="tcp:104259:6"/>agreeable to the ſacred Scripture, confirmed of <hi>old</hi> by many a Miracle, and all the Prophets and Apoſtles; and of <hi>late</hi> alſo by the blood of many Mar<g ref="char:EOLhyphen"/>tyrs.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I thank you for your advice, and wiſh that the <hi>more ignorant</hi> among the <hi>Diſſenters,</hi> would follow the ſame; for, I have been inform'd by a Neighbour, who knows many of 'em, that they are mighty ready to entertain any reports, <hi>though ungrounded,</hi> and <hi>prejudicial</hi> to the <hi>Proteſtant intereſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>My good friend, I do wiſh ſo too; and moreover do heartily deſire, that there were not as <hi>many</hi> in our Church, that are too peeviſh and fooliſh, yea too apt to believe any thing that is buz'd up and down by the <hi>Papiſts.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>'Tis ſad, if it be true as you ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>I ſpeak no more than I know; for whenever the <hi>Papiſts</hi> would revile the Epiſcopal, (it may be ſometime under the notion of a Diſſenter): Oh how ready are <hi>Diſſenters</hi> to take it up, and ſay, Report, and we will report; and our people are <hi>even</hi> with them, and it rejoyceth too too many of 'em to hear any thing evil, how <hi>falſly ſoever,</hi> againſt the <hi>Diſſenters.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Then we do the Papiſts work for them.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>We do ſo: And truly unleſs they will on both ſides be adviſed, and <hi>think better one of another,</hi> and conſider <hi>more deliberately</hi> what is <hi>their joynt-intereſt,</hi> we are a ruin'd People.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But, Sir, what is our Joynt-intereſt?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>I'le be particular in ſhewing you.</p>
+               </sp>
+               <p n="1">1. <hi>To be fully perſwaded that the Papiſts are carrying on a bloody Plot againſt the Proteſtant Religion, his Majeſty's Life and Government:</hi> For nothing more ſure, than that the <hi>eradicating</hi> the Proteſtant Religion, and the <hi>deſtruction</hi> of the Proteſtants, is the <hi>Papiſts aim.</hi> Whence although their deſigns are ſo <hi>inhumane</hi> and <hi>cruel,</hi> that they dare not before an Execution own it; yet nothing more evident, than that they breathe after the blood of the King, and of all Prote<g ref="char:EOLhyphen"/>ſtants, whether Epiſcopal or Presbyterian; and no queſtion their aim is moſtly at <hi>ſuch</hi> as are in <hi>places</hi> of <hi>profit;</hi> and conſequently more againſt the <hi>Conformiſt,</hi> than the <hi>Nonconformiſt.</hi>
+               </p>
+               <p n="2">2. The <hi>uniting at leaſt</hi> ſo far, as to uſe <hi>all juſt means for the preſervation of true Religion, our King, our Families, and Posterity.</hi>
+               </p>
+               <p n="1">1. All old <hi>quarrels</hi> and <hi>animoſities</hi> muſt be <hi>forgotten;</hi> and we muſt learn of our Lord Jeſus Chriſt, to be <hi>more meek</hi> and <hi>humble,</hi> forgiving thoſe that treſ<g ref="char:EOLhyphen"/>paſs againſt us, and never render evil for good; but contrariwiſe, good for evil. The <hi>Epiſcopal</hi> muſt forget the injuries they received from the <hi>Presbyte<g ref="char:EOLhyphen"/>rians</hi> long ago, and do nothing by way of <hi>revenge;</hi> and the <hi>Presbyterians</hi> muſt not remember the ſeverities they have met with from the Epiſcopal <hi>theſe laſt twenty years,</hi> and render evil for evil.</p>
+               <p n="2">2. All ſhould reſolve as <hi>one man,</hi> to act like Queen <hi>Elizabeths Prote<g ref="char:EOLhyphen"/>ſtants.</hi>
+               </p>
+               <p n="3">3. It <hi>greatly concerns</hi> all Proteſtants, never <hi>to fear the Papiſts cruelties,</hi> nor <hi>ex<g ref="char:EOLhyphen"/>pect their mercies.</hi>
+               </p>
+               <p n="1">1. <hi>Fear them not.</hi> Reſiſt the Devil, and he'l flee from you; nothing can more effectually break all their <hi>Plots,</hi> than <hi>Proteſtant courage.</hi> Their work is Helliſh, and ſo is their Maſter, and ſo are their <hi>principles,</hi> and the methods they take; 'tis after the blood of Innocents they hunt, by lying and perjury, and every evil way blaſpheming God and the King; and therefore God is againſt
+<pb n="11" facs="tcp:104259:6"/>them, and their own conſciences cannot but now and then terrifie and affrighten them. But <hi>our</hi> cauſe is the <hi>Lords,</hi> the defending our King and our ſelves againſt the unjuſt cruelties of the Papiſts, the abiding firm to Goſpel-Truths; God is on our ſide; Why then ſhould we fear? Fear them not, but ſtand ſtill, and you ſhall ſee the Salvation of God.</p>
+               <p n="2">2. <hi>Expect not their mercies,</hi> they are a treacherous deceitful people, and no faith is to be kept with <hi>Hereticks, i. e.</hi> with <hi>Proteſtants,</hi> is <hi>their Rule.</hi> Let not <hi>Diſſenters,</hi> nor any of the <hi>Church of England</hi> think that they ſhall be ſpared, if ever <hi>Popery</hi> prevails; they'l ſay, <hi>Hail Maſter,</hi> and <hi>betray you; they'l kiſs you,</hi> and <hi>cut your throats.</hi> Believe them not, for they are made up of <hi>lies, equivocations,</hi> and <hi>mental reſervations,</hi> and count it meritorious to kill Proteſtant Dogs, as they call us. Be not therefore frighted out of your R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gion, nor flattered in<g ref="char:EOLhyphen"/>to their ſnare. Queen <hi>Mary</hi> made brave Promiſes to the Goſpellers <hi>(i. e.)</hi> the Proteſtants, but all ended either in cruel Priſons, as the <hi>Biſhops Cole-houſe, Lollards Tower,</hi> &amp;c. or in <hi>Smithfield,</hi> and many other Fires.</p>
+               <p n="4">4. 'Tis our <hi>joint-intereſt</hi> to remember the wonderful deliverances God hath given our <hi>King,</hi> the great City, and theſe Kingdoms, in order to the ſhewing our unfeigned thankfulneſs by an hearty Reformation. Let us not inſiſt on the Tything Mint, Anniſe and Cummin, and neglect the <hi>great</hi> and <hi>weighty matters of the Law;</hi> nor let us inſiſt on trifles, and neglect this great duty of Reformation. 'Tis the call of the preſent Providence, the duty of the day, and the Lord help both you and my ſelf to an honeſt obedience, and then we ſhall all have cauſe to magnifie the Lord for <hi>further</hi> and <hi>fuller Salvations.</hi>
+               </p>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I thankfully acknowledg your love, in that you have given your ſelf ſo great a trouble to inlighten me in theſe neceſſary points. I would only beg the favour of your thoughts concerning one thing, and I have done.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>What is that, Neighbour?</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Sir, I have been told, that there was a <hi>Parliament</hi> ſome months ſince, that did <hi>Reſolve</hi> in the Houſe, That if the <hi>King</hi> ſhould be taken away by any un<g ref="char:EOLhyphen"/>timely death <stage>(which God forbid)</stage> they would revenge his death on the <hi>Papiſts.</hi> What reaſons can there be given for ſuch a <hi>Reſolve?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>'Tis not to be queſtioned, but that that <hi>great Council</hi> did what they did on the <hi>higheſt reaſons,</hi> namely, To ſhew their Loyalty and Love to his Majeſty, to aſſure the <hi>Papiſts</hi> that the day ſhould not be their own, though they ſhould accompliſh their <hi>Deviliſh deſign,</hi> viz. the death of our Soveraign, and therefore 'twould be their Intereſt to keep themſelves from Treaſon, and the blood of Proteſtant Princes.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But what <hi>equity</hi> is there in revenging his death on all <hi>Papiſts?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Great equity: For the Treaſon of theſe bloody wretches is of the <hi>higheſt nature,</hi> it being to deſtroy the beſt of Kings, and the Proteſtant Religion, yea and to ruin theſe Kingdoms by turning us all into blood, which deſign can ne<g ref="char:EOLhyphen"/>ver in their own apprehenſions be accompliſhed but by the <hi>whole Popiſh ſtrength;</hi> and therefore 'tis not to be queſtioned but that the <hi>whole party,</hi> at leaſt all men of <hi>brains,</hi> and <hi>intereſt,</hi> are acquainted with, if not engaged in it.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But Sir, you ſuppoſe that though the moſt part be acquainted with it, yet all may not actually <hi>engage</hi> in it; muſt <hi>they</hi> feel the ſmart of Proteſtant revenge alſo?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Sir, I tell you, that as 'tis not to be ſuppoſed, but 'tis known to all in ge<g ref="char:EOLhyphen"/>neral, although ſome may hate the Treaſon becauſe of the bloodineſs thereof, at leaſt with reference to their kindred that are among <hi>Protestants;</hi> or it may be, they are ſo much <hi>Engliſh</hi> men as not to engage actually; yet ſince they know the Treaſon, their concealing of it is enough to make them guilty.</p>
+               </sp>
+               <sp>
+                  <pb n="12" facs="tcp:104259:7"/>
+                  <speaker>C.</speaker>
+                  <p>There is much in that which I did not ſo much conſider, and I am ſure for my imploy, you know Sir, calls me unto divers parts of the I and, that the <hi>generality</hi> of Proteſtants are ſo <hi>firm</hi> to the Proteſtant Religion, ſo dutiful, affe<g ref="char:EOLhyphen"/>ctionate, and loyal to his Majeſty, that they will be ſo full of rage, ſhould the <hi>Papiſts</hi> make the attempt and kill the King, that they will ſoon have cauſe to repent of ſuch treachery.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>I am of your mind, being the more encouraged to conclude ſo from the <hi>ſpecial Providence</hi> of God, that have appeared in favour of the Proteſtant Cauſe againſt them already. God hath been, is, and will be known by the Judgments he executeth in the Earth; the wicked being taken in the ſnare, they have laid for the innocent. The Lord reigns, and by ſignal Provi<g ref="char:EOLhyphen"/>dences he hath prevented the execution of Popiſh Plots, in doing ſo by his own <hi>arm;</hi> turning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> againſt them, which <hi>they</hi> deſigned for themſelves; as the <hi>death</hi> of Sir <hi>Edmondbury Godfrey, &amp;c.</hi> God <hi>brings</hi> about his own glory, and the Proteſtants ſafety by the moſt unlikely and improbable ways, as might be ſhewn diverſly. But I am call'd away, and can only add, That if we are not too <hi>ſecure,</hi> nor too <hi>fearful,</hi> but act as becometh good Proteſtants, and Loyal Subjects, we ſhall ſee the <hi>Doom</hi> of the <hi>Plot,</hi> and of all <hi>Plotters.</hi> Fare<g ref="char:EOLhyphen"/>well. I muſt be gone.</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104259:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
